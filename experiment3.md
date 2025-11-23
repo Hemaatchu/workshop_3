@@ -37,5 +37,6 @@ plt.show()
 ```
 ## Output 
 <img width="867" height="338" alt="image" src="https://github.com/user-attachments/assets/7ec7fe40-1f82-4f98-a84e-5cbd0919238e" />
+
 ## Result:
 Thus the program to implement the canny edge detection was executed successfully.
